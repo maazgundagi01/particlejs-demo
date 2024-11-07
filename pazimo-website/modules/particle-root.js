@@ -1,4 +1,4 @@
-import { useState } from "../../modules/particle-state.js"
+import { useState } from "./particle-state.js"
 const body = document.getElementById("root");
 let createID = 0;
 let styleID = 0;
